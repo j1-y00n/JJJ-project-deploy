@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JJJ-project/static/css/main.62628875.css",
+    "main.js": "/JJJ-project/static/js/main.291a3bc9.js",
+    "static/js/453.68693753.chunk.js": "/JJJ-project/static/js/453.68693753.chunk.js",
+    "static/media/desc03.jpeg": "/JJJ-project/static/media/desc03.fc7f58a7b39e9a8fea9f.jpeg",
+    "static/media/desc04.jpeg": "/JJJ-project/static/media/desc04.8ace359599d4e4670b71.jpeg",
+    "static/media/desc02.jpeg": "/JJJ-project/static/media/desc02.793013a32080e1f92793.jpeg",
+    "static/media/desc01.jpeg": "/JJJ-project/static/media/desc01.49cd9a6f77999fe81a55.jpeg",
+    "static/media/GmarketSansMedium.otf": "/JJJ-project/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/logo.png": "/JJJ-project/static/media/logo.89283a84f5cefb057dd2.png",
+    "index.html": "/JJJ-project/index.html",
+    "main.62628875.css.map": "/JJJ-project/static/css/main.62628875.css.map",
+    "main.291a3bc9.js.map": "/JJJ-project/static/js/main.291a3bc9.js.map",
+    "453.68693753.chunk.js.map": "/JJJ-project/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62628875.css",
+    "static/js/main.291a3bc9.js"
+  ]
+}
